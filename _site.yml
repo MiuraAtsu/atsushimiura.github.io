@@ -3,14 +3,14 @@ output_dir: "docs"
 navbar:
   title: "Atsushi Miura"
   left:
-    #- text: "Home"
-    #  href: index.html
-    #- text: "Research"
-    #  href: research.html
-    #- text: "Researchmap"
-    #  href: researchmap.html
-    #- icon: fa-envelope
-    #  href: a.miura@asagi.waseda.jp
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Researchmap"
+      href: researchmap.html
+    - icon: fa-envelope
+      href: a.miura@asagi.waseda.jp
 href: http://github.com/atsushimiura.github.io/
 output:
   html_document:
