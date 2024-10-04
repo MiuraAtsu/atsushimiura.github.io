@@ -14,5 +14,7 @@ navbar:
       href: a.miura@asagi.waseda.jp
 
 output:
-html_document:
-theme: darkly
+  html_document:
+    theme: simplex
+    includes:
+       in_header: google.html
