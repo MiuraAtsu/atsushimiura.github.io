@@ -14,8 +14,8 @@ navbar:
     #  href: teaching.html
     - text: "Researchmap"
       href: researchmap.html
-   # - icon: fa-envelope
-   #   href: mailto:takayuki.nagamine@ucl.ac.uk
+   - icon: fa-envelope
+   　href: a.miura@asagi.waseda.jp
 output:
   html_document:
     theme: simplex
