@@ -14,6 +14,6 @@ navbar:
 href: http://github.com/atsushimiura.github.io/
 output:
   html_document:
-    theme: simplex
+    theme: simplex.min
     includes:
        in_header: google.html
