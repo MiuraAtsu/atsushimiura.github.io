@@ -1,0 +1,65 @@
+---
+title: "Research"
+output: html_document
+---
+
+<style type="text/css">
+
+body, td {
+   font-size: 16px;
+}
+<!-- code.r{ -->
+<!--   font-size: 12px; -->
+<!-- } -->
+<!-- pre { -->
+<!--   font-size: 12px -->
+<!-- } -->
+</style>
+
+
+Here, I introduce some of my research outputs by research projects. For a complete list of publications and presentations, please see my [CV](https:) or visit [my researchmap page](https://researchmap.jp/atsushimiura).
+
+----------
+
+## **Publication**
+
+-   **Miura, A.** (2024). Sensitivity to silently structured interveners: Sluicing interpretation in L2 learners. *Current Perspectives on Generative SLA - Processing, Influence, and Interfaces. Selected proceedings of the 15th Generative Approaches to Second Language Acquisition Conference*, 220-237. [Book info.](https://benjamins.com/catalog/lald.70)
+
+-   **Miura, A.** & Komatsu, M. (2023). A closer look at the different rhythm metrics in L2 English: Inter-and intra-speaker variability and individual difference. *Language Studies (言語研究), 45*, 107-120. [Download](https://kanagawa-u.repo.nii.ac.jp/records/15369)
+
+-   **Miura, A.** & Nagamine, T. (2022). Using synchronous computer-mediated communication to develop L2 learners’ oral fluency. In J. Levis & A. Guskaroska (eds.),*Proceedings of the 12th Pronunciation in Second Language Learning and Teaching Conference*, held June 2021 virtually at Brock University, St. Catharines, ON. <https://doi.org/10.31274/psllt.13347>
+
+----------
+
+## **Conference Presentation**
+
+-   Ojima, S., **Miura, A.**, & Shibata, N. (October, 2023). How does extremely long exposure to English affect Japanese children's English speaking, academic Japanese, and brain activity?. Paper presented at Tunghai International Conference on Second Language Teaching and Research 2023. [Refereed]
+
+-   **Miura, A.** & Nagamine, T. (August, 2023). Writing as your speaking practice tutor: Anatomizing the practice modality on L2 speaking training. Paper presented at the 56th British Association for Applied Linguistics (BAAL) [Refereed]
+
+-   Ojima, S., Shibata, N., **Miura, A.**, Hirose, Y., & Tanaka, H. (June, 2023) An introduction to the linguistics of Japanese children's English learning. Invited conference symposium at the 166th Annual conference of the Linguistic Society of Japan.
+
+-   **Miura, A.** (October, 2022) Proficiency may not predict sensitivity to intervention effect in sluicing structure. Poster presented at Japan Second Language Association (J-SLA) The 22nd Annual Convention. [Refereed]
+
+-   **Miura, A.** (May, 2022) Sensitivity to silently structured intervener: From L2 learners’ sluicing interpretation. Poster presented at Generative Approaches to Second Language Acquisition (GASLA 16). [Refereed]
+
+-   Nagamine, T. & **Miura, A.** (April, 2022) Write to speak: Effects of timed writing practice on development of the L2 learners' oral performance. Poster presented at the 10th International Symposium on the Acquisition of Second Language Speech (New Sounds 2022). [Refereed]
+
+-   **Miura, A.** (August, 2021) Adopting Synchronous Computer-Mediated　Communication into Second Language Classrooms. Paper presented at International Conference on Education and Technology 2021 (ICETECH). [Refereed]
+
+-   **Miura, A.** (July, 2021) Can parser avoid building the structure with intervention effect? Active gap creation and intervention effect. Poster presented at the International Symposium on Bilingualism (ISB 13). [Refereed]
+
+-   **Miura, A.** & Nagamine, T. (June, 2021) Using synchronous computer-mediated communication to develop L2 learners’ oral fluency. Poster presented at the 12th Annual Pronunciation in Second Language Learning and Teaching conference (PSLLT 2021). [Refereed]
+
+-   **Miura, A.** (June, 2019) The acquisition of control structure by Japanese learners: Focus on the intervention effect. Paper presented at the Japan Second Language Association (J-SLA) The 19th Annual Convention. [Refereed]
+
+----------
+      
+
+## **Academic Membership**                                                          
+-   J-SLA (The Japan Second Language Association [HP](https://www.j-sla.org/)         
+-   BAAL (British Association for Applied Linguistics) [HP](https://www.baal.org.uk/) 
+-   AAAL (American Association for Applied Linguistics)                               
+
+----------
+For other research outputs, please see my [CV](https://) or visit my researchmap page:   <a href='https://researchmap.jp/atsushimiura' target='_blank'><img src="https://researchmap.jp/outline/img/researchmap130.gif" title="researchmap" alt="researchmap" border="0"/></a>

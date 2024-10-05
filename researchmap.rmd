@@ -1,0 +1,26 @@
+---
+title: "Researchmap"
+output: html_document
+---
+
+<style type="text/css">
+
+body, td {
+   font-size: 16px;
+}
+
+<!-- code.r{ -->
+<!--   font-size: 12px; -->
+<!-- } -->
+<!-- pre { -->
+<!--   font-size: 12px -->
+<!-- } -->
+</style>
+
+
+```{r echo = FALSE, out.width = "800px"}
+#install.packages("webshot")
+#library(webshot)
+knitr::include_url("https://researchmap.jp/atsushimiura", height = "750px")
+```
+
