@@ -1,2 +1,6 @@
 plugins:
   - jekyll-sitemap
+
+
+plugins:
+  - jekyll-theme-hamilton
