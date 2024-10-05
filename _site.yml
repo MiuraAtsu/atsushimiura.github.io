@@ -13,7 +13,7 @@ navbar:
       href: a.miura@asagi.waseda.jp
 href: http://github.com/atsushimiura.github.io/
 output:
-  html_document:
-    theme: simplex
-    includes:
-       in_header: google.html
+html_document:
+theme: simplex
+includes:
+in_header: google.html
