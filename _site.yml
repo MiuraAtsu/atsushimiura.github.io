@@ -15,6 +15,6 @@ navbar:
 
 output:
   html_document:
-    theme: darkly
+    theme: simplex
     includes:
        in_header: google.html
