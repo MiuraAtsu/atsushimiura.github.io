@@ -12,7 +12,7 @@ navbar:
       href: researchmap.html
     - icon: fa-envelope
       href: a.miura@asagi.waseda.jp
-href: http://github.com/atsushimiura.github.io/
+      href: http://github.com/atsushimiura.github.io/
 output:
   html_document:
     theme: simplex
