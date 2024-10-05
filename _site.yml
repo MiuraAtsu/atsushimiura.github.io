@@ -17,4 +17,4 @@ output:
   html_document:
     theme: simplex
     includes:
-       in_header: google.html
+    #   in_header: google.html
