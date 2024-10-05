@@ -11,7 +11,7 @@ navbar:
     - text: "Researchmap"
       href: researchmap.html
     - icon: fa-envelope
-      href: a.miura@asagi.waseda.jp
+      href: mailto:a.miura@asagi.waseda.jp
 
 output:
   html_document:
