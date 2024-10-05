@@ -1,8 +1,2 @@
 plugins:
   - jekyll-sitemap
-
-
-plugins:
-  - jekyll-theme-hamilton
-
-remote_theme: http[s]://github.<Enterprise>.com/benbalter/retlab
